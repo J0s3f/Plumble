@@ -4,9 +4,6 @@
 [submodule "jni/speex"]
 	path = jni/speex
 	url = git://git.xiph.org/speex.git/
-[submodule "libs/ActionBarSherlock"]
-	path = libs/ActionBarSherlock
-	url = git://github.com/JakeWharton/ActionBarSherlock.git/
 [submodule "jni/opus"]
 	path = jni/opus
 	url = https://git.xiph.org/opus.git/
@@ -16,3 +13,6 @@
 [submodule "libs/NineOldAndroids"]
 	path = libs/NineOldAndroids
 	url = git://github.com/JakeWharton/NineOldAndroids.git
+[submodule "libs/ActionBarSherlock"]
+	path = libs/ActionBarSherlock
+	url = https://github.com/J0s3f/ActionBarSherlock.git
